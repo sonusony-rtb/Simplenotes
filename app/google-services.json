@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746737507259",
+    "project_id": "simple-notes-473e6",
+    "storage_bucket": "simple-notes-473e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746737507259:android:547cde22b8e529bb93429e",
+        "android_client_info": {
+          "package_name": "com.rtb.simplenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746737507259-6u2u2aospvqga1c5ftrbosbn52lh792k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1blKZYs4682B9UxZ6YJFoW6N6p661Cy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746737507259-6u2u2aospvqga1c5ftrbosbn52lh792k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

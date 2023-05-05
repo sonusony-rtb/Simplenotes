@@ -2,6 +2,7 @@ package com.rtb.simplenotes.application
 
 import android.app.Application
 import android.content.Context
+import com.rtb.andbeyondmedia.sdk.AndBeyondMedia
 import com.rtb.simplenotes.BuildConfig
 import com.rtb.simplenotes.koin.appModule
 import com.rtb.simplenotes.koin.dbModule
@@ -22,6 +23,7 @@ class ThisApplication : Application() {
         super.onCreate()
         appContext = this
         initKoin()
+        AndBeyondMedia.initialize(this, true)
     }
 
 
